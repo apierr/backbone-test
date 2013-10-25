@@ -1,1 +1,0 @@
-<td colspan="3">No contacts to display.</td>
